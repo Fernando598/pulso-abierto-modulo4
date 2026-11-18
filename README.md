@@ -103,3 +103,32 @@ no almacena información en una base de datos.
 **Verificación realizada:** Después de la modificación, se ejecutaron los comandos `npm test` y `npm run build`. Las 12 pruebas automatizadas finalizaron correctamente y el proyecto generó el build productivo sin errores.
 
 **Resultado:** Se mejoró la mantenibilidad del código sin modificar el comportamiento esperado de la aplicación.
+
+
+
+## Verificación final
+
+**Proyecto:** Pulso Abierto – Módulo 4  
+**Fecha de verificación:** 18 de noviembre de 2026
+
+### Resultados
+
+- **Pruebas automatizadas:** 12 pruebas aprobadas mediante `npm test`.
+- **Build productivo:** generado correctamente mediante `npm run build`.
+- **Preview local:** comprobado mediante `npm run preview`.
+- **Despliegue:** realizado correctamente en Vercel.
+- **Consulta de precios:** funciona correctamente.
+- **Navegación:** funcionamiento correcto entre listado y detalle, incluso al recargar una ruta.
+- **Favoritos:** funcionan y se conservan después de recargar.
+- **Formulario:** validación y envío comprobados.
+- **Diseño responsivo:** verificado en escritorio y dispositivos móviles.
+
+### Enlaces
+
+**Repositorio de GitHub:**  
+https://github.com/Fernando598/pulso-abierto-modulo4
+
+**Aplicación publicada:**  
+https://pulso-abierto-modulo4-nine.vercel.app/
+
+**Conclusión:** Se completó la integración, verificación y publicación de Pulso Abierto, conservando las funcionalidades desarrolladas durante los módulos anteriores.
